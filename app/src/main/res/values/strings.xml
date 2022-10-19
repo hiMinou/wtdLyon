@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wtdlyon</string>
+    <string name="title_home">Bars</string>
+    <string name="title_dashboard">Restaurants</string>
+    <string name="title_notifications">Banques</string>
+    <string name="title_activity_maps">wtdLyon</string>
+</resources>
